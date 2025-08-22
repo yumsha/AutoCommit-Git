@@ -5,6 +5,22 @@ import schedule
 import time
 from dotenv import load_dotenv
 from datetime import datetime
+from flask import Flask
+
+def main():
+    print("Trying to run AutoCommit");
+
+app =  Flask(__name__)
+
+@app.route('/')
+def index():
+    return "Worker running"
+
+if __name__ == "__main__":
+    port = int(os.environ.get("PORT", 5000))
+    import threading
+    threading.Thread(target=main).start()
+    app.run(host="0.0.0.0", port=port)
 
 
 load_dotenv()
