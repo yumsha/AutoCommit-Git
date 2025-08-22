@@ -1,126 +1,61 @@
-This would be adding a commit log for my AutoCommit project, built on Python with schedule, time, requests, and datetime
+# Git-AutoCommit
 
-Update at 2025-08-22 15:01:59
-Update at 2025-08-22 17:33:01
-Update at 2025-08-22 17:35:03
-Update at 2025-08-22 17:37:15
-Update at 2025-08-22 17:39:19
-Update at 2025-08-22 17:41:21
-Update at 2025-08-22 17:43:23
-Update at 2025-08-22 17:45:25
-Update at 2025-08-22 17:47:26
-Update at 2025-08-22 17:49:27
-Update at 2025-08-22 18:52:03
-Update at 2025-08-22 18:52:56
-Update at 2025-08-22 18:53:03
-Update at 2025-08-22 18:53:10
-Update at 2025-08-22 18:53:17
-Update at 2025-08-22 18:53:24
-Update at 2025-08-22 18:53:31
-Update at 2025-08-22 18:53:37
-Update at 2025-08-22 18:53:44
-Update at 2025-08-22 18:53:50
-Update at 2025-08-22 18:53:57
-Update at 2025-08-22 18:54:04
-Update at 2025-08-22 18:54:10
-Update at 2025-08-22 18:54:17
-Update at 2025-08-22 18:54:24
-Update at 2025-08-22 18:54:30
-Update at 2025-08-22 18:54:37
-Update at 2025-08-22 18:54:44
-Update at 2025-08-22 18:54:50
-Update at 2025-08-22 18:54:57
-Update at 2025-08-22 18:55:04
-Update at 2025-08-22 18:55:10
-Update at 2025-08-22 18:55:16
-Update at 2025-08-22 18:55:23
-Update at 2025-08-22 18:55:29
-Update at 2025-08-22 18:55:36
-Update at 2025-08-22 18:55:42
-Update at 2025-08-22 18:55:49
-Update at 2025-08-22 18:55:55
-Update at 2025-08-22 18:56:02
-Update at 2025-08-22 18:56:09
-Update at 2025-08-22 18:56:15
-Update at 2025-08-22 18:56:22
-Update at 2025-08-22 18:56:28
-Update at 2025-08-22 18:56:35
-Update at 2025-08-22 18:56:41
-Update at 2025-08-22 18:56:48
-Update at 2025-08-22 18:56:54
-Update at 2025-08-22 18:57:00
-Update at 2025-08-22 18:57:07
-Update at 2025-08-22 18:57:14
-Update at 2025-08-22 18:57:20
-Update at 2025-08-22 18:57:27
-Update at 2025-08-22 18:57:33
-Update at 2025-08-22 18:57:40
-Update at 2025-08-22 18:57:46
-Update at 2025-08-22 18:57:53
-Update at 2025-08-22 18:57:59
-Update at 2025-08-22 18:58:06
-Update at 2025-08-22 18:58:12
-Update at 2025-08-22 18:58:19
-Update at 2025-08-22 18:58:26
-Update at 2025-08-22 18:58:32
-Update at 2025-08-22 18:58:39
-Update at 2025-08-22 18:58:45
-Update at 2025-08-22 18:58:52
-Update at 2025-08-22 18:58:59
-Update at 2025-08-22 18:59:05
-Update at 2025-08-22 18:59:12
-Update at 2025-08-22 18:59:19
-Update at 2025-08-22 18:59:25
-Update at 2025-08-22 18:59:31
-Update at 2025-08-22 18:59:38
-Update at 2025-08-22 18:59:44
-Update at 2025-08-22 18:59:51
-Update at 2025-08-22 18:59:57
-Update at 2025-08-22 19:00:04
-Update at 2025-08-22 19:00:11
-Update at 2025-08-22 19:00:17
-Update at 2025-08-22 19:00:24
-Update at 2025-08-22 19:00:31
-Update at 2025-08-22 19:00:37
-Update at 2025-08-22 19:00:44
-Update at 2025-08-22 19:00:51
-Update at 2025-08-22 19:00:58
-Update at 2025-08-22 19:01:04
-Update at 2025-08-22 19:54:01
-Update at 2025-08-22 19:54:07
-Update at 2025-08-22 19:54:14
-Update at 2025-08-22 19:54:20
-Update at 2025-08-22 19:54:27
-Update at 2025-08-22 19:54:33
-Update at 2025-08-22 19:54:40
-Update at 2025-08-22 19:54:46
-Update at 2025-08-22 19:54:53
-Update at 2025-08-22 19:55:00
-Update at 2025-08-22 19:55:06
-Update at 2025-08-22 19:55:13
-Update at 2025-08-22 19:55:19
-Update at 2025-08-22 19:55:26
-Update at 2025-08-22 19:55:32
-Update at 2025-08-22 19:55:39
-Update at 2025-08-22 19:55:45
-Update at 2025-08-22 19:55:52
-Update at 2025-08-22 19:55:58
-Update at 2025-08-22 19:56:05
-Update at 2025-08-22 19:56:12
-Update at 2025-08-22 19:56:18
-Update at 2025-08-22 19:56:25
-Update at 2025-08-22 19:56:31
-Update at 2025-08-22 19:56:38
-Update at 2025-08-22 19:56:44
-Update at 2025-08-22 19:56:50
-Update at 2025-08-22 19:56:57
-Update at 2025-08-22 19:57:03
-Update at 2025-08-22 19:57:10
-Update at 2025-08-22 19:57:16
-Update at 2025-08-22 19:57:23
-Update at 2025-08-22 19:57:29
-Update at 2025-08-22 19:57:36
-Update at 2025-08-22 19:57:42
-Update at 2025-08-22 19:57:49
-Update at 2025-08-22 19:57:55
-Update at 2025-08-22 19:58:02
+A simple Python script to automatically commit changes to your Git repository at regular intervals. Perfect for keeping your GitHub stats active or for automating backup commits!
+
+## Features
+
+* Automatically commits changes in your repo
+* Customizable commit message
+* Works with local Git repositories
+* Lightweight and easy to set up
+
+## Requirements
+
+* Python 3.8+
+* Git installed and configured
+* Virtual environment (optional but recommended)
+
+## Installation
+
+1. Clone this repository:
+
+```bash
+git clone git@github.com:yumsha/Git-AutoCommit.git
+cd Git-AutoCommit
+```
+
+2. (Optional) Create a virtual environment and activate it:
+
+```bash
+python3 -m venv venv
+source venv/bin/activate
+```
+
+3. Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+## Usage
+
+1. Open `app.py` and configure your settings if needed (commit message, interval, etc.).
+2. Run the script:
+
+```bash
+python app.py
+```
+
+3. Your repository will now automatically commit changes based on the configured interval.
+
+## Security
+
+⚠️ Make sure **not to commit your personal secrets**, tokens, or passwords. Use `.env` files and `.gitignore` to keep them safe.
+
+## Contributing
+
+Pull requests are welcome! Feel free to add new features, improve documentation, or report bugs.
+
+## License
+
+This project is open source under the MIT License.
