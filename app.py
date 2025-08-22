@@ -17,7 +17,7 @@ FILE_NAME = os.getenv("FILE_NAME", "README.md")
 API_URL = f"https://api.github.com/repos/{REPO_NAME}/contents/{FILE_NAME}"
 
 def auto_commit():
-    print(f"[{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] 🔄 Running auto commit...")
+    print(f"[{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] Running auto commit now..")
 
     res = requests.get(API_URL, headers={
         "Authorization": f"token {ACCESS_TOKEN}"
@@ -38,7 +38,7 @@ def auto_commit():
 
 
     payload = {
-        "message": f"chore: auto update {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}",
+        "message": f"auto update {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}",
         "content": base64.b64encode(updated_content.encode()).decode(),
         "sha": sha
     }
@@ -53,8 +53,8 @@ def auto_commit():
         print("Try again!", push_res.json())
 
 # 3 hours repeat
-schedule.every(10).hour.do(auto_commit)
-print("Auto commit service started! Interval: 1 minute")
+schedule.every(10).hours.do(auto_commit)
+print("Auto commit service started! Interval: 10 Hours")
 while True:
     schedule.run_pending()
     time.sleep(60)
