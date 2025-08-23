@@ -20,8 +20,8 @@ A simple Python script to automatically commit changes to your Git repository at
 1. Clone this repository:
 
 ```bash
-git clone git@github.com:yumsha/Git-AutoCommit.git
-cd Git-AutoCommit
+git clone git@github.com:yumsha/AutoCommit-Git.git
+cd AutoCommit-Git
 ```
 
 2. (Optional) Create a virtual environment and activate it:
@@ -59,3 +59,4 @@ Pull requests are welcome! Feel free to add new features, improve documentation,
 ## License
 
 This project is open source under the MIT License.
+
